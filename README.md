@@ -1,3 +1,3 @@
 # SampleFrameWork
-Please clone this repo and create your own branch.
-Then push your framework to this Github.
+Please create new repo and create you framwork on your Github.
+Invite everyone to see you framework.
